@@ -1,4 +1,0 @@
-samba@10.30.37.113's password: samba
-cd /home/lwang/BM1682/server/zl/
-tar zcf test.tar.gz /home/lwang/BM1682/server/zl/boot.log
-exit
